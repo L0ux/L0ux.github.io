@@ -1,3 +1,3 @@
-theme: jekyll-theme-architect
-title: Welcome to L0ux's homepage !
-description: Test description
+- name: Hugo setup
+  uses: peaceiris/actions-hugo@v2.4.13
+
