@@ -3,17 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://l0ux.github.io/about/</loc>
-    <lastmod>2021-03-13T00:16:02+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://l0ux.github.io/</loc>
-    <lastmod>2021-03-13T00:16:02+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://l0ux.github.io/posts/first_post/</loc>
     <lastmod>2021-03-13T00:16:02+01:00</lastmod>
   </url>
   
@@ -23,7 +13,12 @@
   </url>
   
   <url>
-    <loc>http://l0ux.github.io/posts/</loc>
+    <loc>http://l0ux.github.io/cv/</loc>
+    <lastmod>2021-03-13T00:16:02+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://l0ux.github.io/about/</loc>
     <lastmod>2021-03-13T00:16:02+01:00</lastmod>
   </url>
   
@@ -33,21 +28,7 @@
   </url>
   
   <url>
-    <loc>http://l0ux.github.io/tags/</loc>
-    <lastmod>2021-03-13T00:16:02+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://l0ux.github.io/tags/untagged/</loc>
-    <lastmod>2021-03-13T00:16:02+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://l0ux.github.io/blog/</loc>
-  </url>
-  
-  <url>
-    <loc>http://l0ux.github.io/series/</loc>
+    <loc>http://l0ux.github.io/index.html</loc>
   </url>
   
 </urlset>

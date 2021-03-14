@@ -1,31 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bonjour, Je suis Guillaume Loux</title>
-    <link>http://l0ux.github.io/</link>
-    <description>Recent content on Bonjour, Je suis Guillaume Loux</description>
+    <title>Bonjour, Je suis Guillaume.</title>
+    <link>http://l0ux.github.io/index.html</link>
+    <description>Recent content on Bonjour, Je suis Guillaume.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creative Commons&lt;/a&gt;</copyright>
-    <lastBuildDate>Sat, 13 Mar 2021 00:16:02 +0100</lastBuildDate><atom:link href="http://l0ux.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>http://l0ux.github.io/about/</link>
-      <pubDate>Sat, 13 Mar 2021 00:16:02 +0100</pubDate>
-      
-      <guid>http://l0ux.github.io/about/</guid>
-      <description>this is some content</description>
-    </item>
-    
-    <item>
-      <title>First_post</title>
-      <link>http://l0ux.github.io/posts/first_post/</link>
-      <pubDate>Sat, 13 Mar 2021 00:16:02 +0100</pubDate>
-      
-      <guid>http://l0ux.github.io/posts/first_post/</guid>
-      <description>this is some content</description>
-    </item>
-    
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creative Commons&lt;/a&gt;</copyright><atom:link href="http://l0ux.github.io/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
+"self" type="application/rss+xml" />
     <item>
       <title>First_post</title>
       <link>http://l0ux.github.io/projects/first_post/</link>
@@ -33,6 +17,27 @@
       
       <guid>http://l0ux.github.io/projects/first_post/</guid>
       <description>this is some content</description>
+    </item>
+    
+    <item>
+      <title>Mon Curriculum Vitae</title>
+      <link>http://l0ux.github.io/cv/</link>
+      <pubDate>Sat, 13 Mar 2021 00:16:02 +0100</pubDate>
+      
+      <guid>http://l0ux.github.io/cv/</guid>
+      <description>Voici mon Curriculum Vitae.</description>
+    </item>
+    
+    <item>
+      <title>Mon Profil</title>
+      <link>http://l0ux.github.io/about/</link>
+      <pubDate>Sat, 13 Mar 2021 00:16:02 +0100</pubDate>
+      
+      <guid>http://l0ux.github.io/about/</guid>
+      <description>Bonjour, je suis Guillaume Loux.
+J&amp;rsquo;ai 25 ans et je suis actuellement en Master 2 Imagina, Image Game and Inteligent Agent, à la faculté des sciences de Montpellier.
+J&amp;rsquo;ai toujours été intéressé par le monde de la programmation. Durant tout mon cursus, j&amp;rsquo;ai pu étudier et découvrir de multiple discipline et horizon de l&amp;rsquo;informatique, mais la chose qui ma le plus passioné etait de créer quelque chose, de visible.
+C&amp;rsquo;est pourquoi je me suis tourné vers l&#39;Informatique Graphique et étant passionné par les jeux vidéos depuis toujours quoi de plus visible que d&amp;rsquo;en créer.</description>
     </item>
     
   </channel>
