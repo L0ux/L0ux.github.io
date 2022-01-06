@@ -8,21 +8,27 @@
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creative Commons&lt;/a&gt;</copyright><atom:link href="http://l0ux.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Curriculum Vitae</title>
+      <link>http://l0ux.github.io/cv/</link>
+      <pubDate>Sat, 13 Mar 2021 00:16:02 +0100</pubDate>
+      
+      <guid>http://l0ux.github.io/cv/</guid>
+      <description>Voici un résumé de mon Curriculum Vitae que vous trouverez en téléchargement ici.
+Formation 2018 - 2020 Master Informatique à la faculté des sciences de montpellier
+2014 - 2018 Licence informatique à l&amp;rsquo;université Paul Sabatier à Toulouse
+2014 Bac Scientifique Option Science de l&amp;rsquo;ingénieur au Lycée
+Saint Joseph à Toulouse
+Experience 2021 Développement d&amp;rsquo;un jeu vidéo et sa publication sur la plateforme Itch.io
+2021 Stage de 6 mois pour le CIRAD dans le domaine du machine learning</description>
+    </item>
+    
+    <item>
       <title>Mes projets</title>
       <link>http://l0ux.github.io/projects/</link>
       <pubDate>Sat, 13 Mar 2021 00:16:02 +0100</pubDate>
       
       <guid>http://l0ux.github.io/projects/</guid>
-      <description>Mes projets</description>
-    </item>
-    
-    <item>
-      <title>Mon Curriculum Vitae</title>
-      <link>http://l0ux.github.io/cv/</link>
-      <pubDate>Sat, 13 Mar 2021 00:16:02 +0100</pubDate>
-      
-      <guid>http://l0ux.github.io/cv/</guid>
-      <description>Voici mon Curriculum Vitae.</description>
+      <description>Night Watch Jeux vidéo mélant plateforme et speedrun ou l&amp;rsquo;on incarne un épéiste devant tuer tout les ennemies présent. Application de suivi de poisson Développement d&amp;rsquo;une application ayant pour but de suivre les poissons dans leurs aquarium afin de calculer la nouriture qu&amp;rsquo;ils mangent pour determiner et selection les individues qui convertise le mieux la nouriture en biomasse. Pokemon Gym Challenge Maquette d&amp;rsquo;un jeu d&amp;rsquo;enigme dans le monde pokemon réalisé sur mon temps libre.</description>
     </item>
     
     <item>

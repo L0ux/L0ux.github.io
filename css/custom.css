@@ -1,0 +1,23 @@
+.img-sm {
+  	display: block;
+    	margin: 0.7rem auto;
+}
+
+.img-sm img{
+  max-height:300px
+}
+
+.img-lg {
+  max-height: 100px;
+}
+
+.img-lg img{
+  max-height:100px
+}
+
+.test {
+  	justify-content: center;
+}
+
+
+
